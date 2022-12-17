@@ -17,14 +17,9 @@ Users should be able to:
 
 - See hover and focus states for interactive elements
 
-### Screenshot
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+- Live Site URL: https://bohdancvejn.github.io/product-preview-card-component-main/#
 
 ### Built with
 
